@@ -5,8 +5,8 @@
 
 ## 1. DEMO
 
+[![Django縮網址結果](https://1.bp.blogspot.com/-MjN2vAzBPb4/XsGD-CHepHI/AAAAAAAAHjA/HEx3eXjazcwbKXd138mYJa9gyUl4uTIbgCK4BGAsYHg/url_shortner.png)](https://www.youtube.com/watch?v=FVlnKGUPJMw "Django縮網址結果")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FVlnKGUPJMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
