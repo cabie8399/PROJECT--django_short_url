@@ -6,8 +6,8 @@
 ## 1. DEMO
 
 
-DEMO影片 : [Youtube Demo影片](https://www.youtube.com/watch?v=FVlnKGUPJMw)<br>
-[![Django縮網址結果](https://1.bp.blogspot.com/-MjN2vAzBPb4/XsGD-CHepHI/AAAAAAAAHjA/HEx3eXjazcwbKXd138mYJa9gyUl4uTIbgCK4BGAsYHg/url_shortner.png)](https://www.youtube.com/watch?v=FVlnKGUPJMw "Django縮網址結果")
+DEMO影片 : [Youtube Demo影片](https://youtu.be/mi2NSUXzIlM)<br>
+[![Django縮網址結果](https://1.bp.blogspot.com/-MjN2vAzBPb4/XsGD-CHepHI/AAAAAAAAHjA/HEx3eXjazcwbKXd138mYJa9gyUl4uTIbgCK4BGAsYHg/url_shortner.png)](https://youtu.be/mi2NSUXzIlM "Django縮網址結果")
 
 
 

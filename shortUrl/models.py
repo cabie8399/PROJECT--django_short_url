@@ -61,7 +61,7 @@ def getShortUrl(**kwargs):
         
         # 組合成縮網址
         local_ip = socket.gethostbyname(socket.gethostname())
-        short_url = "http://" + local_ip + ":8000/shortUrl/get_short_url/" + myID
+        short_url = "http://" + "{你的ip}:8000/shortUrl/get_short_url/" + myID
 
         
         
