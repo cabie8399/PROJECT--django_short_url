@@ -67,7 +67,7 @@ f062d95c8a01        shorturl:latest     "python /django/mana…"   5 minutes ago
 開啟瀏覽器輸入 http://{你的伺服器ip}:8000/docs<br>
 eg: http://192.168.50.106:8000/docs/<br>
 
-![](https://trello.com/1/cards/61916a51e6b80a14223fee87/attachments/61916a58a43f843819ad0037/previews/61916a59a43f843819ad0049/download/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2021-11-15_035116.jpg)
+![](https://imgbox.com/Pl3oSmJr)
 
 
 
