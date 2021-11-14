@@ -70,7 +70,7 @@ eg: http://192.168.50.106:8000/docs/<br>
 
 
 
-![](https://imgur.com/a/uzxvLZs)
+![](./img.jpg)
 
 
 
