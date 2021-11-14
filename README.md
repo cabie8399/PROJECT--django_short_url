@@ -67,7 +67,19 @@ f062d95c8a01        shorturl:latest     "python /django/mana…"   5 minutes ago
 開啟瀏覽器輸入 http://{你的伺服器ip}:8000/docs<br>
 eg: http://192.168.50.106:8000/docs/<br>
 
-![](https://imgbox.com/Pl3oSmJr)
+
+
+
+![](https://imgur.com/a/uzxvLZs)
+
+
+
+
+
+
+
+
+
 
 
 
