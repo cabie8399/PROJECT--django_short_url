@@ -6,7 +6,7 @@
 ## 1. DEMO
 
 
-DEMO影片 : [Youtube Demo影片](https://www.youtube.com/watch?v=FVlnKGUPJMw)
+DEMO影片 : [Youtube Demo影片](https://www.youtube.com/watch?v=FVlnKGUPJMw)<br>
 [![Django縮網址結果](https://1.bp.blogspot.com/-MjN2vAzBPb4/XsGD-CHepHI/AAAAAAAAHjA/HEx3eXjazcwbKXd138mYJa9gyUl4uTIbgCK4BGAsYHg/url_shortner.png)](https://www.youtube.com/watch?v=FVlnKGUPJMw "Django縮網址結果")
 
 
@@ -64,10 +64,10 @@ f062d95c8a01        shorturl:latest     "python /django/mana…"   5 minutes ago
 
 ### 5. 開啟瀏覽器
 
-開啟瀏覽器輸入 http://{你的伺服器ip}:8000/docs
-eg: http://192.168.50.106:8000/docs/
+開啟瀏覽器輸入 http://{你的伺服器ip}:8000/docs<br>
+eg: http://192.168.50.106:8000/docs/<br>
 
-![](https://imgur.com/a/uzxvLZs)
+![](https://trello.com/1/cards/61916a51e6b80a14223fee87/attachments/61916a58a43f843819ad0037/previews/61916a59a43f843819ad0049/download/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2021-11-15_035116.jpg)
 
 
 
